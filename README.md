@@ -1,15 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Portfolio Bootstrap
 
-> Description the project.
+> Rebuilding the portfolio project with bootstrap.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- BOOTSTRAP
+- GITHUB
 
 ## Live Demo (if available)
 
@@ -18,45 +19,65 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To get a local copy and running follow the following steps.
+
+1. Clone the app by running this command
+
+    git clone https://github.com/JacintaNgwu/Portfolio-Bootstrap.git
+
+2. Navigate into the folder by running this command
+
+    cd Portfolio-Mobile-first
+
+3. Install the dependencies by running this command
+
+    npm install
+
+4. View the output in your browser by running this command
+
+    npm start
+
+## Prerequisites
+
+You require:
+
+1.  A web browser to see your result
+2.  A text editor ( VScode, Sublime, Atom etc) and GitBash to code your project.  
 
 
-To get a local copy up and running follow these simple example steps.
+## Run tests
 
-### Prerequisites
+You can run your test through the following process:
 
-### Setup
+1. Commit and push your changes
 
-### Install
+2. Navigate to pull request
 
-### Usage
-
-### Run tests
-
-### Deployment
-
+3. Create a pull request.
 
 
 ## Authors
 
-👤 **Author1**
+👤 **jacinta Ngwu**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@jacintangwu](https://github.com/JacintaNgwu/Hello-World.git)
+- Twitter: [@jacinta_ngwu](https://twitter.com/jacinta_ngwu)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Kanu Chukwuemeka**
+
+- GitHub: [@Mekuseo](https://github.com/mekuseo
+)
+- Twitter: [@pison_fullstack](https://twitter.com/pison_fullstack
+)
+- LinkedIn: [pison_fullstack](https://linkedin.com/pison_fullstack
+)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check for issues
 
 ## Show your support
 
@@ -71,5 +92,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
